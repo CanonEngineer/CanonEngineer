@@ -10,8 +10,7 @@
 <img src="https://img.shields.io/badge/Unesp-Botucatu-1d4ed8?style=for-the-badge&labelColor=08203a" alt="Unesp"/>
 <img src="https://img.shields.io/badge/Hireable-Yes-22c55e?style=for-the-badge&labelColor=08203a" alt="Hireable"/>
 
-**Information Technologist · Computer Engineer (in progress)**  
-Post in Business Management · ITE · CCNA 1–3 · CyberSecurity · CyberOps · Python
+Passionate about designing secure digital infrastructures where engineering, cybersecurity, automation, and innovation converge to empower organizations and accelerate digital transformation.
 
 <br/>
 
