@@ -73,28 +73,31 @@ Description   | Institution   | Year | Type
 
 <div align="center">
   <h3> ⚙️ GITHUB STATS </h3>
-  <a href="https://github.com/CanonVortigen">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
-</div><hr> 
+  <a href="https://github.com/CanonEngineer">
+    <img alt="GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=CanonEngineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/CanonEngineer">
+    <img alt="Top Languages" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonEngineer&layout=compact&langs_count=7&theme=dark" />
+  </a>
+</div><hr>
 
  <h3> 📺  LATEST VIDEOS </h3>
  <div>
    <div> 
      <h4>✨ HOME AUTOMATION SOFTWARE</h4>
      <a href="https://www.youtube.com/watch?v=1Obd5cZ0-70&t=478s" target="_blank">
-     <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"<br/></a>   
+     <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"><br/></a>
    </div>
    <div>
      <h4>✨ HIPERCLOUD - CLOUD STORAGE SYSTEM </h4>
      <a href="https://youtu.be/wPFdsNH4x-s" target="_blank">
-     <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"<br/></a>
+     <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"><br/></a>
    </div>
  </div>
 
 <div align="center">  
   <h3> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h3>
-  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
+  <p align="center"><img align="center" alt="Profile views" src="https://profile-counter.glitch.me/CanonEngineer/count.svg" /></p>
 </div>
 
 <div align="center">
