@@ -58,10 +58,10 @@ Description   | Institution   | Year | Type
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/developercanon?stkn=MXVhcXg3dmlrcml0Yg==" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/developercanon/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/alessandro-oliveira-sebasti%C3%A3o-a9099a66?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alessandro-oliveira-sebasti%C3%A3o-a9099a66" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:developercanon@gmail.com" target="_blank" rel="noopener noreferrer">
