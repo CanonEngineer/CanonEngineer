@@ -80,15 +80,18 @@ Description   | Institution   | Year | Type
   <h3> ⚙️ GITHUB STATS </h3>
   <p>
     <a href="https://github.com/CanonEngineer">
-      <img alt="GitHub Stats" height="195" src="https://github-readme-stats-sigma.vercel.app/api?username=CanonEngineer&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true" />
+      <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanonEngineer&theme=20641" />
     </a>
     <a href="https://github.com/CanonEngineer">
-      <img alt="GitHub Streak" height="195" src="https://streak-stats.demolab.com/?user=CanonEngineer&amp;theme=dark" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=CanonEngineer&theme=dark" />
     </a>
   </p>
   <p>
     <a href="https://github.com/CanonEngineer">
-      <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanonEngineer&amp;theme=20641" />
+      <img alt="Top Languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanonEngineer&theme=20641" />
+    </a>
+    <a href="https://github.com/CanonEngineer">
+      <img alt="Top Languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CanonEngineer&theme=20641" />
     </a>
   </p>
 </div><hr>
