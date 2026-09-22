@@ -71,7 +71,7 @@ Description   | Institution   | Year | Type
 
 <div>
   <h3> 📝 ACCESS MY RESUME </h3>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
+  <a href="https://canonengineer.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
   </a>
 </div><hr>
