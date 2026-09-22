@@ -53,15 +53,20 @@ Description   | Institution   | Year | Type
 🏅 Ingles | Wizard | 2016 | Certification
 
 <hr>
-<div> 
+<div>
   <h3> 🌐 MY SOCIAL MEDIA </h3>
-  <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
-  target="_blank"></a>
-  <a href="https://www.instagram.com/developercanon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alessandro-oliveira-canon-a9099a66" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-  target="_blank"></a> 
-  <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/developercanon?stkn=MXVhcXg3dmlrcml0Yg==" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alessandro-oliveira-sebasti%C3%A3o-a9099a66?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:developercanon@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div><hr>
 
 <div>
@@ -73,12 +78,19 @@ Description   | Institution   | Year | Type
 
 <div align="center">
   <h3> ⚙️ GITHUB STATS </h3>
-  <a href="https://github.com/CanonEngineer">
-    <img alt="GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=CanonEngineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/CanonEngineer">
-    <img alt="Top Languages" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonEngineer&layout=compact&langs_count=7&theme=dark" />
-  </a>
+  <p>
+    <a href="https://github.com/CanonEngineer">
+      <img alt="GitHub Stats" height="195" src="https://github-readme-stats-sigma.vercel.app/api?username=CanonEngineer&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true" />
+    </a>
+    <a href="https://github.com/CanonEngineer">
+      <img alt="GitHub Streak" height="195" src="https://streak-stats.demolab.com/?user=CanonEngineer&amp;theme=dark" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/CanonEngineer">
+      <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanonEngineer&amp;theme=20641" />
+    </a>
+  </p>
 </div><hr>
 
  <h3> 📺  LATEST VIDEOS </h3>
@@ -95,9 +107,11 @@ Description   | Institution   | Year | Type
    </div>
  </div>
 
-<div align="center">  
+<div align="center">
   <h3> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h3>
-  <p align="center"><img align="center" alt="Profile views" src="https://profile-counter.glitch.me/CanonEngineer/count.svg" /></p>
+  <p align="center">
+    <img align="center" alt="Profile views" src="https://komarev.com/ghpvc/?username=CanonEngineer&amp;label=Profile%20views&amp;color=38bdf8&amp;style=for-the-badge" />
+  </p>
 </div>
 
 <div align="center">
